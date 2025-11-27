@@ -4,7 +4,8 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
+- 🌱 Achmad Rhomadhon **XI/PPLG-3/2**
+- 🌱 Muhammad Fadil Z **XI/PPLG-3/18**
 
 <h3>✅ Features</h3>
 
